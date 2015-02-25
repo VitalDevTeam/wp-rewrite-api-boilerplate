@@ -3,8 +3,9 @@
 Reference:
 http://codex.wordpress.org/Rewrite_API
 
-Simple Tutorial:
-http://clivern.com/how-to-add-custom-rewrite-rules-in-wordpress/
+Plugin to analyze rewrites:
+https://wordpress.org/plugins/monkeyman-rewrite-analyzer
 
-Advanced Tutorial:
+Tutorials:
+http://clivern.com/how-to-add-custom-rewrite-rules-in-wordpress
 http://code.tutsplus.com/articles/the-rewrite-api-the-basics--wp-25474
