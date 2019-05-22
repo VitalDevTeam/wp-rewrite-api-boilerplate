@@ -23,7 +23,7 @@ function vtl_url_rewrite_deactivate() {
 
 function vtl_url_rewrite_rules() {
 
-    add_rewrite_rule('widgets/([^/]*)', 'index.php?page_id=1892&widget_type=$matches[1]', 'top');
+    add_rewrite_rule('widgets/([^/]*)/?$', 'index.php?page_id=1892&widget_type=$matches[1]', 'top');
 
     add_rewrite_tag('%widget_type%', '([^&]+)');
 
